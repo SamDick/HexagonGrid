@@ -18,6 +18,6 @@ Grid has a -Q offset.
 
 --
 05/14
-There are many places I want to clean up.But not before A* pathfinding. 
+There are many places I want to clean up. But not before A* pathfinding. 
 
 Thank you.
